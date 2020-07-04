@@ -1,1 +1,1 @@
-# Machine-Learning-Maleria-Detection-on-Image-Dataset
+In this repository, I've added the machine learning projects.
