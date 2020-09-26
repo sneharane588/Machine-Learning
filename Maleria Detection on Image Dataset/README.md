@@ -21,5 +21,7 @@ Samples drawn from NIH Malaria dataset which are malaria infected parasite red b
 5. Store the data obtained into the SCV file.
    The dataset looks like this : 
    
-   
+   ![maleria-data](https://user-images.githubusercontent.com/19407823/94339271-4c0af880-0016-11eb-925c-80252418b7d6.PNG)
+   <br>
+6. Build a classifier using Scikit-learn
 
